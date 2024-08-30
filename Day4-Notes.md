@@ -156,7 +156,7 @@ ipconfig /renew
 These commands are often used in sequence to troubleshoot network issues, such as when a device is unable to connect to the internet or if there are IP conflicts on the network.
 
 
-#### **What is Network Architecture?**
+### **What is Network Architecture?**
 
 Network Architecture refers to the design and structure of a computer network. It outlines the framework that defines how network devices and services are arranged, how data is transmitted across the network, and how resources are allocated. This includes the hardware components (like routers, switches, and servers), software protocols, the layout of the network (topology), and the modes of communication used (such as wired or wireless connections).
 
@@ -221,7 +221,7 @@ Network security is essential to safeguard sensitive data, maintain user privacy
 - **Intrusion Detection and Prevention Systems (IDPS):** Monitoring network traffic for suspicious activities and responding to potential threats in real-time.
 - **Virtual Private Networks (VPNs):** Creating secure, encrypted connections over a less secure network, like the internet, to protect data in transit.
 
-#### **Hierarchical Network Design**
+### **Hierarchical Network Design**
 
 Hierarchical Network Design is a structured approach to building networks that divides the network into distinct layers, each with specific roles and functions. This design methodology helps in managing and scaling networks efficiently. The most common hierarchical model consists of three layers: Access, Distribution, and Core.
 
